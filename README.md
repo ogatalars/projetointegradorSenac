@@ -1,2 +1,113 @@
-# projetointegradorSenac
-his work presents a detailed description of use case scenarios for a university system, developed as part of an integrative project for the conclusion of the semester.
+# Projeto Integrador II
+
+## Integrantes do Grupo
+- Felipe de Mello Ogata
+- Lorena Camila de Almeida Lopes
+- Matheus Felipe dos Santos
+- Rafael Augusto Felipe
+- Vinicios Raiser
+- Vinicius Valadares
+
+## Professor Orientador
+- 
+
+## Descrição do Projeto
+Este projeto visa a criação de um sistema universitário para a gestão acadêmica. As funcionalidades principais incluem a gestão de cadastros de pessoas físicas, jurídicas, professores, fornecedores e alunos, além de outras funcionalidades essenciais para a administração acadêmica.
+
+## Objetivo
+O objetivo deste sistema é simplificar e automatizar tarefas administrativas, como matrículas, lançamento de notas, controle de frequência e divulgação de horários de aulas, promovendo a eficiência, transparência e qualidade na gestão acadêmica.
+
+## Ferramentas Utilizadas
+- Linguagem de Modelagem Unificada (UML) para a modelagem do sistema
+- Ferramentas de prototipagem: Miro e Figma
+- Plataforma de versionamento de código: GitHub
+
+## Estrutura do Projeto
+
+### Tela de Login
+**Campos:**
+- E-mail
+- Senha
+
+**Botões:**
+- Login
+- Esqueci minha senha
+- Cadastro
+
+### Tela de Navegação
+**Menus:**
+- Cadastro de Pessoa Física
+- Cadastro de Pessoa Jurídica
+- Cadastro de Professores
+- Cadastro de Fornecedores
+- Cadastro de Alunos
+
+### Formulários de Cadastro
+#### Cadastro de Pessoa Física
+**Campos:**
+- Nome
+- CPF
+- Endereço
+- Telefone
+- E-mail
+
+#### Cadastro de Pessoa Jurídica
+**Campos:**
+- Nome da Empresa
+- CNPJ
+- Endereço
+- Telefone
+- E-mail
+
+#### Cadastro de Professores
+**Campos:**
+- Nome
+- CPF
+- Área de Atuação
+- Telefone
+- E-mail
+
+#### Cadastro de Fornecedores
+**Campos:**
+- Nome da Empresa
+- CNPJ
+- Produtos Fornecidos
+- Telefone
+- E-mail
+
+#### Cadastro de Alunos
+**Campos:**
+- Nome
+- CPF
+- Curso
+- Matrícula
+- Telefone
+- E-mail
+
+## Diagramas
+### Diagrama de Casos de Uso
+![Diagrama de Casos de Uso](link_para_o_diagrama_de_casos_de_uso)
+
+### Diagrama de Classes
+![Diagrama de Classes](link_para_o_diagrama_de_classes)
+
+## Prototipagem
+Os protótipos desenvolvidos serão anexados a este repositório assim que estiverem prontos.
+
+## Requisitos de Sistema
+- Plataforma Web
+- Segurança dos dados dos usuários
+- Usabilidade intuitiva
+
+## Metodologia
+Este projeto foi desenvolvido utilizando os princípios fundamentais de segurança e usabilidade, garantindo a proteção dos dados dos usuários e uma interface amigável para uma navegação fácil e gerenciamento eficiente.
+
+## Como Contribuir
+1. Crie uma conta no GitHub.
+2. O repositório será criado por um dos integrantes do grupo.
+3. O integrante responsável pelo repositório deve adicionar os demais integrantes como contribuidores.
+4. Todos os integrantes devem colaborar na criação e atualização do arquivo `readme.md` e na anexação dos protótipos desenvolvidos.
+
+## Licença
+Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
