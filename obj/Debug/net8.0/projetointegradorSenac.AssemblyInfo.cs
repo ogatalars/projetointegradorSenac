@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("projetointegradorSenac")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1307678815a0d8d4a2fe271464ad396dddbf0f5c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f50c257c1e173b33d74350edcba30e973f8620f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("projetointegradorSenac")]
 [assembly: System.Reflection.AssemblyTitleAttribute("projetointegradorSenac")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
