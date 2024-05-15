@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\PC Gamer\\Documents\\projects\\projetointegradorSenac\\wwwroot\\index\\index.html",
+      "PackagePath": "staticwebassets\\index\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\PC Gamer\\Documents\\projects\\projetointegradorSenac\\wwwroot\\index\\scripts.js",
+      "PackagePath": "staticwebassets\\index\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\PC Gamer\\Documents\\projects\\projetointegradorSenac\\wwwroot\\index\\styles.css",
+      "PackagePath": "staticwebassets\\index\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\PC Gamer\\Documents\\projects\\projetointegradorSenac\\wwwroot\\navigation\\navigation.html",
+      "PackagePath": "staticwebassets\\navigation\\navigation.html"
+    },
+    {
+      "Id": "C:\\Users\\PC Gamer\\Documents\\projects\\projetointegradorSenac\\wwwroot\\navigation\\scripts.js",
+      "PackagePath": "staticwebassets\\navigation\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\PC Gamer\\Documents\\projects\\projetointegradorSenac\\wwwroot\\navigation\\styles.css",
+      "PackagePath": "staticwebassets\\navigation\\styles.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.projetointegradorSenac.props",
+      "PackagePath": "build\\projetointegradorSenac.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.projetointegradorSenac.props",
+      "PackagePath": "buildMultiTargeting\\projetointegradorSenac.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.projetointegradorSenac.props",
+      "PackagePath": "buildTransitive\\projetointegradorSenac.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.projetointegradorSenac.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
