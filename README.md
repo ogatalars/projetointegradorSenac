@@ -1,4 +1,4 @@
-# Projeto Integrador II
+# Projeto Integrador I: Desenvolvimento de Sistemas Orientado a Objetos
 
 ## Integrantes do Grupo
 - Felipe de Mello Ogata
@@ -9,7 +9,7 @@
 - Vinicius Valadares
 
 ## Professor Orientador
-- 
+- Enoque Felipe dos Santos Leal
 
 ## Descrição do Projeto
 Este projeto visa a criação de um sistema universitário para a gestão acadêmica. As funcionalidades principais incluem a gestão de cadastros de pessoas físicas, jurídicas, professores, fornecedores e alunos, além de outras funcionalidades essenciais para a administração acadêmica.
@@ -92,7 +92,8 @@ O objetivo deste sistema é simplificar e automatizar tarefas administrativas, c
 ![Diagrama de Classes](link_para_o_diagrama_de_classes)
 
 ## Prototipagem
-Os protótipos desenvolvidos serão anexados a este repositório assim que estiverem prontos.
+Os protótipos desenvolvidos estão disponíveis no Figma. Acesse o projeto através do link abaixo:
+- [Protótipos no Figma](https://www.figma.com/board/wMBZSIvkiuZm2lu5QElOmI/Untitled?node-id=0%3A1&t=6Xi0LNGKsgx8bFlf-1)
 
 ## Requisitos de Sistema
 - Plataforma Web
@@ -105,9 +106,8 @@ Este projeto foi desenvolvido utilizando os princípios fundamentais de seguran�
 ## Como Contribuir
 1. Crie uma conta no GitHub.
 2. O repositório será criado por um dos integrantes do grupo.
-3. O integrante responsável pelo repositório deve adicionar os demais integrantes como contribuidores.
+3. O integrante responsável pelo repositório deve adicionar os demais integrantes como colaboradores.
 4. Todos os integrantes devem colaborar na criação e atualização do arquivo `readme.md` e na anexação dos protótipos desenvolvidos.
 
 ## Licença
 Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
