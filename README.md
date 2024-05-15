@@ -111,3 +111,31 @@ Este projeto foi desenvolvido utilizando os princípios fundamentais de seguran�
 
 ## Licença
 Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## Como Rodar o Projeto
+
+### Pré-requisitos
+- [.NET 6 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)
+- [Visual Studio Code](https://code.visualstudio.com/) (ou qualquer outro editor de sua preferência)
+- [Git](https://git-scm.com/)
+
+### Passos para Rodar o Projeto
+
+1. **Clone o Repositório**
+   
+   Abra o terminal e execute o seguinte comando para clonar o repositório:
+   ```sh
+   git clone https://github.com/seu-usuario/seu-repositorio.git
+
+cd projetointegradorSenac
+
+2. Instale as dependências
+dotnet restore
+
+3 - Compilar e executar
+dotnet build
+dotnet run
+
+
+4 - Acessando a aplicação 
+http://localhost:5092/index/index.html
