@@ -118,6 +118,7 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICE
 - [.NET 6 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)
 - [Visual Studio Code](https://code.visualstudio.com/) (ou qualquer outro editor de sua preferência)
 - [Git](https://git-scm.com/)
+- Download .NET 6.0 Runtime
 
 ### Passos para Rodar o Projeto
 
