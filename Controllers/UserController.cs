@@ -27,5 +27,18 @@ namespace Projeto.Controllers
                 return Unauthorized("Invalid credentials");
             }
         }
+
+        [HttpPost("register")]
+        public IActionResult Register([FromBody] User user)
+        {
+            if (_authService.Register(user))
+            {
+                return Ok("Registration successful");
+            }
+            else
+            {
+                return Conflict("User with this email already exists");
+            }
+        }
     }
 }
