@@ -3,7 +3,7 @@
 ## Integrantes do Grupo
 - Felipe de Mello Ogata - @ogatalars
 - Lorena Camila de Almeida Lopes - @LorenaCamila
-- Matheus Felipe dos Santos
+- Matheus Felipe dos Santos - @matheusfsantoz
 - Rafael Augusto Felipe
 - Vinicios Raiser
 - Vinicius Valadares
