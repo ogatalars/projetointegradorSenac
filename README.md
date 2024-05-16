@@ -2,7 +2,7 @@
 
 ## Integrantes do Grupo
 - Felipe de Mello Ogata - @ogatalars
-- Lorena Camila de Almeida Lopes
+- Lorena Camila de Almeida Lopes - @LorenaCamila
 - Matheus Felipe dos Santos
 - Rafael Augusto Felipe
 - Vinicios Raiser
@@ -93,7 +93,7 @@ O objetivo deste sistema é simplificar e automatizar tarefas administrativas, c
 
 ## Prototipagem
 Os protótipos desenvolvidos estão disponíveis no Figma. Acesse o projeto através do link abaixo:
-- [Protótipos no Figma](https://www.figma.com/board/wMBZSIvkiuZm2lu5QElOmI/Untitled?node-id=0%3A1&t=6Xi0LNGKsgx8bFlf-1)
+- [Protótipos no Figma](https://www.figma.com/design/JOYHEW8jkCYhhG80oVqeMS/Untitled?node-id=0-1&t=4WF95HVpqHkz06fK-0)
 
 ## Requisitos de Sistema
 - Plataforma Web
