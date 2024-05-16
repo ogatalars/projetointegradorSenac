@@ -1,7 +1,7 @@
 # Projeto Integrador II
 
 ## Integrantes do Grupo
-- Felipe de Mello Ogata
+- Felipe de Mello Ogata - @ogatalars
 - Lorena Camila de Almeida Lopes
 - Matheus Felipe dos Santos
 - Rafael Augusto Felipe
