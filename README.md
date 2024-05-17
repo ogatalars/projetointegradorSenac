@@ -9,7 +9,7 @@
 - Vinicius Valadares - @Vaaladares
 
 ## Professor Orientador
-- 
+- Enoque Leal 
 
 ## Descrição do Projeto
 Este projeto visa a criação de um sistema universitário para a gestão acadêmica. As funcionalidades principais incluem a gestão de cadastros de pessoas físicas, jurídicas, professores, fornecedores e alunos, além de outras funcionalidades essenciais para a administração acadêmica.
@@ -86,10 +86,13 @@ O objetivo deste sistema é simplificar e automatizar tarefas administrativas, c
 
 ## Diagramas
 ### Diagrama de Casos de Uso
-![Diagrama de Casos de Uso](link_para_o_diagrama_de_casos_de_uso)
+![image](https://github.com/ogatalars/projetointegradorSenac/assets/103156091/6be35140-e0f5-4f03-afa9-df1ca5fb52a1)
+
 
 ### Diagrama de Classes
-![Diagrama de Classes](link_para_o_diagrama_de_classes)
+![image](https://github.com/ogatalars/projetointegradorSenac/assets/103156091/427a4224-b03c-4507-8a63-c18a33a22330)
+
+
 
 ## Prototipagem
 Os protótipos desenvolvidos estão disponíveis no Figma. Acesse o projeto através do link abaixo:
