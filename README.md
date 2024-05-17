@@ -6,7 +6,7 @@
 - Matheus Felipe dos Santos - @matheusfsantoz
 - Rafael Augusto Felipe
 - Vinicios Raiser - @viniciosraiser
-- Vinicius Valadares
+- Vinicius Valadares - @Vaaladares
 
 ## Professor Orientador
 - 
