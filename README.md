@@ -9,7 +9,7 @@
 - Vinicius Valadares
 
 ## Professor Orientador
-- 
+- Enoque Felipe dos Santos Leal
 
 ## Descrição do Projeto
 Este projeto visa a criação de um sistema universitário para a gestão acadêmica. As funcionalidades principais incluem a gestão de cadastros de pessoas físicas, jurídicas, professores, fornecedores e alunos, além de outras funcionalidades essenciais para a administração acadêmica.
