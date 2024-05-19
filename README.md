@@ -27,6 +27,7 @@ O objetivo deste sistema é simplificar e automatizar tarefas administrativas, c
 **Campos:**
 - E-mail
 - Senha
+  
 ![image](https://github.com/ogatalars/projetointegradorSenac/assets/82166626/ae109a2f-524e-41ab-a898-ddc41c7b2a8b)
 
 
@@ -42,6 +43,7 @@ O objetivo deste sistema é simplificar e automatizar tarefas administrativas, c
 - Cadastro de Professores
 - Cadastro de Fornecedores
 - Cadastro de Alunos
+  
 ![image](https://github.com/ogatalars/projetointegradorSenac/assets/82166626/596a1b34-6a2e-465f-abf4-bb973f4c799b)
 
 
@@ -53,6 +55,7 @@ O objetivo deste sistema é simplificar e automatizar tarefas administrativas, c
 - Endereço
 - Telefone
 - E-mail
+  
  ![image](https://github.com/ogatalars/projetointegradorSenac/assets/82166626/97aa9626-7218-4f2a-b445-fda77490ed91)
 
 
