@@ -4,6 +4,7 @@
 - Felipe de Mello Ogata - @ogatalars
 - Lorena Camila de Almeida Lopes - @LorenaCamila
 - Matheus Felipe dos Santos - @matheusfsantoz
+- Rafael Augusto Felipe - @rafelipee
 - Vinicios Raiser - @viniciosraiser
 - Vinicius Valadares - @Vaaladares
 
